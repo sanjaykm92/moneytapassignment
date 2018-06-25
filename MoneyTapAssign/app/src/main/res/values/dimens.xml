@@ -1,0 +1,88 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">100dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--TextView Size-->
+    <dimen name="textview_small_size">10dp</dimen>
+    <dimen name="textview_small_1_size">11dp</dimen>
+    <dimen name="textview_small_2_size">12dp</dimen>
+    <dimen name="textview_small_3_size">13dp</dimen>
+    <dimen name="textview_small_4_size">14dp</dimen>
+    <dimen name="textview_midium_size">15dp</dimen>
+    <dimen name="textview_midium_1_size">16dp</dimen>
+    <dimen name="textview_midium_2_size">17dp</dimen>
+    <dimen name="textview_midium_3_size">18dp</dimen>
+    <dimen name="textview_midium_4_size">19dp</dimen>
+    <dimen name="textview_large_size">20dp</dimen>
+    <dimen name="textview_large_2_size">22dp</dimen>
+    <dimen name="textview_large_3_size">24dp</dimen>
+    <dimen name="textview_large_4_size">26dp</dimen>
+    <dimen name="textview_large_5_size">28dp</dimen>
+    <dimen name="textview_large_6_size">30dp</dimen>
+
+    <dimen name="tab_naormal">58dp</dimen>
+    <dimen name="tab_sel">70dp</dimen>
+
+    <dimen name="add_lib_grid_padding">5dp</dimen>
+
+    <dimen name="tool_bar_top_padding">24dp</dimen>
+    <dimen name="tool_bar_top_marginTop">0dp</dimen>
+
+
+    <dimen name="sw_01dp">0.1dp</dimen>
+    <dimen name="sw_1dp">1dp</dimen>
+    <dimen name="sw_2dp">2dp</dimen>
+    <dimen name="sw_3dp">3dp</dimen>
+    <dimen name="sw_4dp">4dp</dimen>
+    <dimen name="sw_5dp">5dp</dimen>
+    <dimen name="sw_7dp">7dp</dimen>
+    <dimen name="sw_8dp">8dp</dimen>
+    <dimen name="sw_10dp">10dp</dimen>
+    <dimen name="sw_12dp">12dp</dimen>
+    <dimen name="sw_15dp">15dp</dimen>
+    <dimen name="sw_16dp">16dp</dimen>
+    <dimen name="sw_17dp">17dp</dimen>
+    <dimen name="sw_18dp">18dp</dimen>
+    <dimen name="sw_20dp">20dp</dimen>
+    <dimen name="sw_22dp">22dp</dimen>
+    <dimen name="sw_25dp">25dp</dimen>
+    <dimen name="sw_26dp">26dp</dimen>
+    <dimen name="sw_27dp">27dp</dimen>
+    <dimen name="sw_28dp">28dp</dimen>>
+    <dimen name="sw_30dp">30dp</dimen>
+    <dimen name="sw_33dp">33dp</dimen>
+    <dimen name="sw_36dp">36dp</dimen>
+    <dimen name="sw_38dp">38dp</dimen>
+    <dimen name="sw_40dp">40dp</dimen>
+    <dimen name="sw_50dp">50dp</dimen>
+    <dimen name="sw_60dp">60dp</dimen>
+    <dimen name="sw_65dp">65dp</dimen>
+    <dimen name="sw_70dp">70dp</dimen>
+    <dimen name="sw_75dp">75dp</dimen>
+    <dimen name="sw_80dp">80dp</dimen>
+    <dimen name="sw_85dp">85dp</dimen>
+    <dimen name="sw_90dp">90dp</dimen>
+    <dimen name="sw_100dp">100dp</dimen>
+    <dimen name="sw_105dp">105dp</dimen>
+    <dimen name="sw_110dp">110dp</dimen>
+    <dimen name="sw_120dp">120dp</dimen>
+    <dimen name="sw_130dp">130dp</dimen>
+    <dimen name="sw_140dp">140dp</dimen>
+    <dimen name="sw_150dp">150dp</dimen>
+    <dimen name="sw_170dp">170dp</dimen>
+    <dimen name="sw_180dp">180dp</dimen>
+    <dimen name="sw_190dp">190dp</dimen>
+    <dimen name="sw_200dp">200dp</dimen>
+    <dimen name="sw_230dp">230dp</dimen>
+    <dimen name="sw_252dp">252dp</dimen>
+    <dimen name="sw_270dp">270dp</dimen>
+    <dimen name="sw_300dp">300dp</dimen>
+    <dimen name="sw_350dp">350dp</dimen>
+    <dimen name="sw_400dp">400dp</dimen>
+</resources>

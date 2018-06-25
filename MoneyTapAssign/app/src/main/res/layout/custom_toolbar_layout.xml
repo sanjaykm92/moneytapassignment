@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/custom_toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@android:color/white"
+    app:titleTextColor="@android:color/black">
+
+    <!--<View-->
+        <!--android:layout_width="@dimen/sw_2dp"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_marginLeft="@dimen/sw_5dp"-->
+        <!--android:background="@drawable/sep" />-->
+
+    <EditText
+        android:id="@+id/custom_toolbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/sw_20dp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:gravity="center_vertical"
+        android:imeOptions="actionDone"
+        android:background="@color/tw__solid_white"
+        android:maxLines="1"
+        android:inputType="text"
+        android:layout_marginRight="@dimen/sw_20dp"
+        android:scrollHorizontally="true"
+        android:ellipsize="end"
+        android:hint="Please Enter Your Text Here"
+        android:textSize="@dimen/sw_17dp"
+        android:paddingLeft="@dimen/sw_5dp"
+        android:paddingRight="@dimen/sw_5dp" />
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/mcqpractice_resetquestionlist"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="right"-->
+        <!--android:visibility="gone"-->
+  <!--&gt;-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/testresult_retaketest456"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="@dimen/sw_40dp"-->
+            <!--android:layout_marginRight="@dimen/sw_10dp"-->
+            <!--android:background="@drawable/rounded_rect_shape_blue"-->
+            <!--android:paddingBottom="@dimen/sw_5dp"-->
+            <!--android:paddingLeft="@dimen/sw_10dp"-->
+            <!--android:paddingRight="@dimen/sw_10dp"-->
+            <!--android:paddingTop="@dimen/sw_5dp"-->
+            <!--android:layout_marginLeft="@dimen/sw_20dp"-->
+            <!--android:gravity="center"-->
+            <!--android:text="RESET"-->
+            <!--android:textColor="#ffffff"-->
+            <!--android:textSize="@dimen/textview_midium_4_size" />-->
+
+    <!--</LinearLayout>-->
+
+
+
+</android.support.v7.widget.Toolbar>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_view_recently_view_back">#3FA2DB</color>
+    <color name="color_most_view_chap">#61BD6D</color>
+    <color name="color_most_view_All">#9365B8</color>
+    <color name="color_most_view_sub">#9365B8</color>
+    <color name="color_library">#FE6B44</color>
+    <color name="ligt_gray">#c86c6868</color>
+    <color name="ligt_gray1">#6c6868</color>
+    <color name="color_rock_blue">#919CAF</color>
+    <color name="color_custom_transparent">#c7000000</color>
+    <color name="cyan">#33B5E5</color>
+    <color name="summarsky">#44A3DB</color>
+    <color name="color_black">#00000000</color>
+    <color name="color_facebook">#3b5999</color>
+    <color name="color_gmail">#D34231</color>
+    <color name="color_gmail_pressed">#A41D14</color>
+    <color name="color_red">#F63D27</color>
+    <color name="color_twitter">#00ABEC</color>
+    <color name="color_twitter_pressed">#417AB2</color>
+
+    <color name="tw__blue_default">#FF5BAAF4</color>
+    <color name="tw__blue_pressed">#FF4186C8</color>
+    <color name="tw__blue_pressed_light">#ffe1e8ed</color>
+    <color name="tw__light_gray">#ccd6dd</color>
+    <color name="tw__medium_gray">#8899a6</color>
+    <color name="tw__solid_white">#FFFFFFFF</color>
+    <color name="tw__transparent">#00000000</color>
+    <color name="tw__transparentgrey">#CC000000</color>
+    <color name="tw__black">#CC000000</color>
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="transparentgrey">#730a0000</color>
+
+    <color name="drak_blue">#1973B7</color>
+    <color name="tw_gray1">#60676c</color>
+    <color name="tw_gray2">#c960676c</color>
+
+    <color name="tabLayoutColor">#F5F5F5</color>
+    <color name="tabTextColor">#909090</color>
+    <color name="loginactionbar">#c59ad7df</color>
+    <color name="textcolor">#0096E8</color>
+    <color name="tabtxtcolor">#8C8C8C</color>
+    <color name="gridlayoutbackcolor">#CCECF9</color>
+
+    <color name="converseSelectorColor">#1399E9</color>
+    <color name="ConverseUnselectcoor">#EAEAEA</color>
+
+    <color name="chatHintTextColor">#AFAFAF</color>
+    <color name="bgcolorlight">#F0F0F0</color>
+
+    <color name="linedivider">#CFCFCF</color>
+
+    <color name="profileroundedbg">#7B7B7B</color>
+
+    <color name="splashscreenbg1">#2d85c9</color>
+    <color name="navigationbarcolor">#F5F5F5</color>
+    <color name="statuscolorbar">#f1efef</color>
+
+    <color name="conversebg">#01ACED</color>
+
+
+    <color name="tint">#5500abfa</color>
+    <color name="Hometoolbarcolorbg">#007EAD</color>
+
+    <color name="profilebg">#007EAD</color>
+
+    <color name="offline">#ff6f00</color>
+
+
+    <color name="login_btn_organge">#f07800</color>
+    <color name="login_forgot_blue">#2299d6</color>
+
+    <color name="splashscreenbg">#0F216B</color>
+    <color name="topBarbg">#2199d6</color>
+    <color name="titleColor">#0f206b</color>
+    <color name="descColor">#9b9b9b</color>
+
+    <color name="topBarbg1">#4c87c7</color>
+    <color name="blueNew">#3f8fe6</color>
+    <color name="reqTxt">#cccccc</color>
+    <color name="reqtxt1">#959595</color>
+    <color name="reqtxt3">#ff9000</color>
+    <color name="reqtxt2">#7f7f7f</color>
+    <color name="green1">#42934b</color>
+
+    <color name="btnOrane">#ffb400</color>
+
+    <color name="removebgcolr">#C9C9C9</color>
+    <color name="topbar_hemburg">#232f3e</color>
+    <color name="Login_bg_color">#f1f1f1</color>
+
+</resources>
